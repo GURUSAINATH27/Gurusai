@@ -1,3 +1,3 @@
 # Gurusai27
-This is my first repository
+This is my first repository.
 Author-Gurusainath G
